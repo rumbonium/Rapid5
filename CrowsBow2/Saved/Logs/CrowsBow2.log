@@ -1921,3 +1921,7 @@ Script call stack:
 [2021.11.19-02.48.29:071][878]AssetCheck: New page: Asset Save: CrowsBow_Whitebox
 [2021.11.19-02.48.29:071][878]LogContentValidation: Display: Validating World /Game/Levels/CrowsBow_Whitebox.CrowsBow_Whitebox
 [2021.11.19-02.48.30:953][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.11.19-02.50.40:099][628]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/u0874963/UnrealProjects/Rapid5'
+[2021.11.19-02.51.35:066][911]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/u0874963/UnrealProjects/Rapid5'
+[2021.11.19-02.53.02:668][510]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.11.19-02.53.22:364][850]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CrowsBow_Whitebox.CrowsBow_Whitebox:PersistentLevel.CrowsBow_Whitebox
