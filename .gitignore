@@ -72,4 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-CrowsBow2/Saved/Logs/CrowsBow2.log
+
+# Log files
+Saved/*.log
