@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "HoudiniEngine",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "WinDualShock",
@@ -17,6 +17,10 @@
 		},
 		{
 			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
 			"Enabled": true
 		}
 	]
